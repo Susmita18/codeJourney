@@ -1,5 +1,6 @@
 # codeJourney
 start of web developer bootcamp
+change
 
 def my_final_grade_calculation(filename):
     file_pointer = open(filename, 'r')
@@ -34,3 +35,4 @@ def my_final_grade_calculation(filename):
 
 #calling function  
 print(my_final_grade_calculation('r.txt'))
+END OF CODE
